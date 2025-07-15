@@ -37,5 +37,3 @@ jobs:
              -F 'projectname=DevSecOps' \
              -F 'bom=@${{ github.workspace }}/bom.xml'
       continue-on-error: true
-
-                    
